@@ -1,3 +1,3 @@
 # dataStructure-demo
 This is my first Git Repository.<br>
-Author - Harkeerit
+Author - Harkeerit Singh
